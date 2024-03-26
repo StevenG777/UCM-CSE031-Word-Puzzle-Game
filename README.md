@@ -7,8 +7,7 @@ The project demonstrated my proficiency in using C and pointer manipulation
 2. Open the file to read the word list
 3. Save words into the array
 4. Print out the original puzzle grid
-5. Search Puzzle
-  - Search matching characters from directions: Horizontal Left to Right, Vertical Bi-directional, Diagonal Bi-directional
+5. Search Puzzle (Search matching characters from directions: Horizontal Left to Right, Vertical Bi-directional, Diagonal Bi-directional)
 6. Print out the result puzzle grid
 
 ## File Details:
