@@ -2,7 +2,7 @@
 ## Descriptions:
 The project demonstrated my proficiency in using C and pointer manipulation
 
-# Project Details:
+## Project Details:
 1. Read the puzzle into 2D arrays
 2. Open the file to read the word list
 3. Save words into the array
