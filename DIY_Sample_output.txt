@@ -1,0 +1,94 @@
+Printing list of words:
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+NewHampshire
+NewJersey
+NewMexico
+NewYork
+NorthCarolina
+NorthDakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+RhodeIsland
+SouthCarolina
+SouthDakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+WestVirginia
+Wisconsin
+Wyoming
+
+Printing puzzle before search:
+I X X A X X X X X X M A I N E 
+P X X L X X X X X X X X X X X 
+P X X A X X N E W Y O R D X X 
+I X X S X X X X X X X X X X A 
+S X X K X X X C X X X X X X D 
+S X X A X X X A O X X X X X A 
+I X X X R X D X X L X X X X V 
+S X X X X I X X X X O X X X E 
+S X X X R X Z X X X X R X X N 
+I X X O X A X O X X X X A X X 
+M X L X W X X X N X X X X D X 
+X F X O X X X X X A X X X X Y 
+X X I X X X X X X X X X O X X 
+X X X X X X X X X X X X H X X 
+X X X A A L A B A M A X I X X 
+
+Word Found: Alabama
+Word Found: Alaska
+Word Found: Arizona
+Word Found: Florida
+Word Found: Iowa
+Word Found: Maine
+Word Found: Mississippi
+Word Found: Nevada
+
+Printing puzzle after search:
+i X X a X X X X X X m a i n e 
+p X X l X X X X X X X X X X X 
+p X X a X X N E W Y O R D X X 
+i X X s X X X X X X X X X X a 
+s X X k X X X C X X X X X X d 
+s X X a X X X a O X X X X X a 
+i X X X r X d X X L X X X X v 
+s X X X X i X X X X O X X X e 
+s X X X r X z X X X X R X X n 
+i X X o X a X o X X X X A X X 
+m X l X w X X X n X X X X D X 
+X f X o X X X X X a X X X X Y 
+X X i X X X X X X X X X O X X 
+X X X X X X X X X X X X H X X 
+X X X A a l a b a m a X I X X 
